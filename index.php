@@ -139,7 +139,7 @@
 	</footer>
 	<div class="powered">
 		<div class="container">
-			<p>Copyright &#169; 2023 Tourist Management Final Year Project</p>
+			<p>Copyright &#169; 2023 Story Telling Tourist</p>
 		</div>
 	</div>
 <!-- Footer end here -->
@@ -159,27 +159,7 @@
 <script type="text/javascript" src="toastr/toastr.min.js" ></script>  
 </body>
 
-<script type="text/javascript">
 
-
-$(document).ready(function () {
-   
-    $('#akin').click(function () {
-        toastr.success("Mechanic Workshop uploaded successfully", "Mechanic Workshop", {
-                    "timeOut": "800",
-                    "extendedTImeout": "3000" });
-            setTimeout(function(){ 
-        //alert ("akin");
-
-        window.location = "https://sawtraxltd.com/mechanic";
-            
-          }, 3000);
-    });
-
-    
-});
-
-</script>
 
 </html>
 
