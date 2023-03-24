@@ -5,7 +5,7 @@
       </div>
       </div>
     </footer>
-	
+	<p
 		<script type="text/javascript">
 			$(function() {
 				$('#da-thumbs > li').hoverdir();
