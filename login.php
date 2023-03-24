@@ -39,7 +39,7 @@
 						<a href="index.php"><span>Click to go Back </span></a>
 					</li>
 					<li>
-						<a href=""><span>Tourist system</span></a>
+						<a href=""><span>Tourist </span></a>
 					</li>
 				</ul>
 			</div>
