@@ -18,7 +18,7 @@
 <link href="new/css/style_cyan.css" title="style_cyan" rel="alternate stylesheet" type="text/css"/>
 <link href="new/css/style_red.css" title="style_red" rel="alternate stylesheet" type="text/css"/>
 <link href="new/css/style_green.css" title="style_green" rel="alternate stylesheet" type="text/css"/>
-<link href="new/css/style_blue.css" title="style_blue" rel="alternate stylesheet" type="text/css"/>
+<link href="new/css/style_blue.css" title="style_blue" rel="alternate stylesheet" type="text/css"/>    
 <!-- font-awesome -->
 <link href="new/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <!-- crousel css -->
