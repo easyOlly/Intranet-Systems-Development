@@ -12,7 +12,7 @@
                     <div data-thumb="images/thumbs/megamind_07.jpg">
                         <img src="images/slides/megamind_07.jpg"> 
                         <div class="caption elemHover fromRight" style="bottom:65px; padding-bottom:5px; color:#ff0; text-transform:uppercase">
-                            Here you can see two captions.
+                            Here you can see two captions.     
                         </div>
                         <div class="caption elemHover fromLeft" style="padding-top:5px;">
                             The first are loaded immediately before than the second one
