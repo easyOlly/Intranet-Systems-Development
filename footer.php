@@ -9,7 +9,7 @@
 		<script type="text/javascript">
 			$(function() {
 				$('#da-thumbs > li').hoverdir();
-			});
+			});   
 		</script>
 <?php include('tooltip.php'); ?>
 
