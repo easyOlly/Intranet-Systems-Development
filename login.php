@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>
 <?php include('dbcon.php'); ?>
 
-<!DOCTYPE html>
+<!DOCTYPE html>    
 <html lang="en" dir="ltr">
 
 <head>
@@ -39,7 +39,7 @@
 						<a href="index.php"><span>Click to go Back </span></a>
 					</li>
 					<li>
-						<a href=""><span>Tourist </span></a>
+						<a href=""><span>Tourist system</span></a>
 					</li>
 				</ul>
 			</div>
