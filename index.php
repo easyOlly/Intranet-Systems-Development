@@ -10,7 +10,7 @@
 <title>Tourist</title>
 <!-- Bootstrap stylesheet -->
 <link href="new/bootstrap/css/bootstrap.css" rel="stylesheet">
-<!-- font -->
+<!-- font -->   
 
 <!-- stylesheet -->
 <link href="new/css/style.css" rel="stylesheet" type="text/css"/>
