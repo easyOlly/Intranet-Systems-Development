@@ -2,7 +2,7 @@
       <div class="container">
 	  <div class="foot-margin">  
           <p><a>Copyright &#169; 2023.  </a></p>
-      </div>
+      </div>  
       </div>
     </footer>
 	<p
