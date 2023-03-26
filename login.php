@@ -25,7 +25,7 @@
 <link href="new/js/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css" />
 <!--bootstrap select-->
 <link href="new/js/dist/css/bootstrap-select.css" rel="stylesheet" type="text/css" />
-<link href="toastr/toastr.min.css" rel="stylesheet"/>
+<link href="toastr/toastr.min.css" rel="stylesheet"/>     
 </head>
 <body>
 <!-- top start here -->
