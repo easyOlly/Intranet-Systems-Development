@@ -20,7 +20,7 @@
 <link href="new/css/style_blue.css" title="style_blue" rel="alternate stylesheet" type="text/css"/>
 <!-- font-awesome -->
 <link href="new/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-<!-- crousel css -->
+<!-- crousel css -->   
 <link href="new/js/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css" />
 <!--bootstrap select-->
 <link href="new/js/dist/css/bootstrap-select.css" rel="stylesheet" type="text/css" />
