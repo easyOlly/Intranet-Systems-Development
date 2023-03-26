@@ -22,7 +22,7 @@
 <link href="new/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <!-- crousel css -->   
 <link href="new/js/owl-carousel/owl.carousel.css" rel="stylesheet" type="text/css" />
-<!--bootstrap select-->
+<!--bootstrap select-->     
 <link href="new/js/dist/css/bootstrap-select.css" rel="stylesheet" type="text/css" />
 <link href="toastr/toastr.min.css" rel="stylesheet"/>
 </head>
