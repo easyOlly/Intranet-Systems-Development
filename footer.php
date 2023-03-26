@@ -1,6 +1,6 @@
     <footer class="footer">
       <div class="container">
-	  <div class="foot-margin">
+	  <div class="foot-margin">  
           <p><a>Copyright &#169; 2023.  </a></p>
       </div>
       </div>
