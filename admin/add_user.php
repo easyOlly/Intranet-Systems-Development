@@ -19,7 +19,7 @@
 				<div class="controls">
 				<button name="submit" type="submit" class="btn btn-success"><i class="icon-save icon-large"></i>&nbsp;Save</button>
 				</div>
-			</div>
+			</div>   
     </form>
 		</div>
 		<div class="modal-footer">
