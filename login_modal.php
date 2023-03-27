@@ -3,7 +3,7 @@
 	.alert alert-danger{
 		width: 150px;
 		height: 150px;
-		background:pink;
+		background:pink;       
 	}
 </style>
 
