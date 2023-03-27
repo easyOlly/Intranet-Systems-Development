@@ -20,7 +20,7 @@
 								<div class="form-group">
 									<div class="col-sm-12">
 										<label>Username</label>
-										<input class="form-control" id="input-email" placeholder="Enter password" value="" name="username" required type="username">
+										<input class="form-control" id="input-email" placeholder="Enter username" value="" name="username" required type="username">
 									</div>
 								</div>
                                 
