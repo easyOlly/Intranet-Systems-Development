@@ -10,9 +10,9 @@
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>Tourist</title>
+<title>Tourist</title>     
 <!-- Bootstrap stylesheet -->
-<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="bootstrap/css/bootstrap.css" rel="stylesheet">    
 <!-- font -->
 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700%7CSource+Sans+Pro:300,400,600,700" rel="stylesheet"> 
 <!-- stylesheet -->
