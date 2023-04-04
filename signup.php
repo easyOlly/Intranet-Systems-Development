@@ -5,10 +5,10 @@
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">   
 <title>Sign up</title>
 <!-- Bootstrap stylesheet -->
-<link href="new/bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="new/bootstrap/css/bootstrap.css" rel="stylesheet">   
 <!-- font -->
 <link href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700%7CSource+Sans+Pro:300,400,600,700" rel="stylesheet"> 
 <!-- stylesheet -->
