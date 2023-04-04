@@ -3,18 +3,18 @@
 <?php include('dbcon.php'); ?>
 <?php include('session.php'); ?>
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="en" dir="ltr">    
 
 
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">    
 <title>Tourist</title>
 <!-- Bootstrap stylesheet -->
 <link href="new/bootstrap/css/bootstrap.css" rel="stylesheet">
 <!-- font -->
-<!-- stylesheet -->
+<!-- stylesheet -->    
 <link href="new/css/style.css" rel="stylesheet" type="text/css"/>
 <link href="new/css/style_cyan.css" title="style_cyan" rel="alternate stylesheet" type="text/css"/>
 <link href="new/css/style_red.css" title="style_red" rel="alternate stylesheet" type="text/css"/>
