@@ -8,10 +8,10 @@
 	<p
 		<script type="text/javascript">
 			$(function() {
-				$('#da-thumbs > li').hoverdir();
+				$('#da-thumbs > li').hoverdir();    
 			});   
 		</script>
-<?php include('tooltip.php'); ?>
+<?php include('tooltip.php'); ?>    
 
 </body>
 </html>
