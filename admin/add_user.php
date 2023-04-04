@@ -9,7 +9,7 @@
 				<input type="text" id="inputEmail" name="username" placeholder="Username" required>
 				</div>
 			</div>
-			<div class="control-group">
+			<div class="control-group">   
 				<label class="control-label" for="inputPassword">Password</label>
 				<div class="controls">
 				<input type="password" name="password" id="inputPassword" placeholder="Password" required>

@@ -5,7 +5,7 @@
     <!-- Modal -->
     <div id="add_service" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-header">
-	<div class="alert alert-info">Add Story</div>
+	<div class="alert alert-info">Add Story</div>      
     </div>
     <div class="modal-body">
 		<form class="form-horizontal" enctype="multipart/form-data" method="POST">
