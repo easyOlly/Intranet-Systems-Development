@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">     
 	<title>Toursit</title>
 			<link href="images/mm.png" rel="icon">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,17 +13,17 @@
 			<link href="css/docs.css" rel="stylesheet" media="screen">
 			<link href="css/diapo.css" rel="stylesheet" media="screen">
 			<link href="css/font-awesome.css" rel="stylesheet" media="screen">
-            <link href="templatemo_style.css" rel="stylesheet" type="text/css" />
+            <link href="templatemo_style.css" rel="stylesheet" type="text/css" />     
              
 <link rel="stylesheet" type="text/css" href="css/css/coin-slider.css" />
                         
 	<!-- js -->			
     <script src="js/jquery-1.7.2.min.js"></script>
-    <script src="js/bootstrap.js"></script>
-    <script src="js/jquery.hoverdir.js"></script>
+    <script src="js/bootstrap.js"></script>     
+    <script src="js/jquery.hoverdir.js"></script>          
     
     <script type="text/javascript" src="js/cufon-yui.js"></script>
-<script type="text/javascript" src="js/cufon-titillium-900.js"></script>
+<script type="text/javascript" src="js/cufon-titillium-900.js"></script>      
 <script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="js/script.js"></script>
 <script type="text/javascript" src="js/coin-slider.min.js"></script>
