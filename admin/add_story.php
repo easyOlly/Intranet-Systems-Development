@@ -8,7 +8,7 @@
 	<div class="alert alert-info">Add Story</div>
     </div>
     <div class="modal-body">
-		<form class="form-horizontal" method="POST">
+		<form class="form-horizontal" method="POST">  
 			<div class="control-group">
 			<label class="control-label" for="inputEmail">Title Name</label>
 			<div class="controls">
